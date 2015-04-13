@@ -4,8 +4,8 @@
 // If you really don't know how to do this... Run `node getserver.js URL`.
 // Fill in the URL of the client where `URL` is.
 // For example: `node getserver.js http://example-server.psim.us/`
-exports.server = 'cbc.pokecommunity.com';
-exports.port = 8000;
+exports.server = 'http://pkmncharizard-pkmnharry.rhcloud.com-80.psim.us';
+exports.port = 80;
 
 // This is the server id.
 // To know this one, you should check where the AJAX call 'goes' to when you
