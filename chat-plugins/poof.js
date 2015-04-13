@@ -7,7 +7,7 @@ const amiy = [
 	"got swallowed whole by a Snorlax."
 ];
 
-const anrindas = [
+const pokemoonjake = [
 	"went back to the Dragon's Den."
 ];
 
